@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Healloibra</string>
+    <string name="Course_title">Course Title</string>
+    <string name="course_desc">Course_Desc</string>
+    <string name="course_id">course_id</string>
+    <string name="course_credet">course_credet</string>
+    <string name="enroll">enroll</string>
+    <string name="credit">credit</string>
+</resources>
